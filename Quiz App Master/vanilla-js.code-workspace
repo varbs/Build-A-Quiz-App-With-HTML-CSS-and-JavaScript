@@ -1,0 +1,55 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "..\\.git"
+    },
+    {
+      "path": "..\\.vscode"
+    },
+    {
+      "path": "..\\1. Create Home Page and Application Styling"
+    },
+    {
+      "path": "..\\2. Create and Style the Game Page"
+    },
+    {
+      "path": "..\\3. Display Hard Coded Question and Answers"
+    },
+    {
+      "path": "..\\4. Display Feedback for Correct and Incorrect Answers"
+    },
+    {
+      "path": "..\\5. Create a Head's Up Display"
+    },
+    {
+      "path": "..\\6. Create a Progress Bar"
+    },
+    {
+      "path": "..\\7. Create and Style the End Page"
+    },
+    {
+      "path": "..\\8. Save High Scores in Local Storage"
+    },
+    {
+      "path": "..\\9. Load and Display High Scores from Local Storage"
+    },
+    {
+      "path": "..\\10. Fetch Questions from Local JSON File"
+    },
+    {
+      "path": "..\\11. Fetch API Questions from Open Trivia API"
+    },
+    {
+      "path": "..\\12. Create a Spinning Loader"
+    },
+    {
+      "path": "..\\images"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Quiz App Master"
+  }
+}
